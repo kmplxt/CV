@@ -1,2 +1,2 @@
 # CV
-Web development journey
+Udemy Web Development Course
